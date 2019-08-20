@@ -14,7 +14,7 @@ Examples:
   perl ../bin/map_genome.pl ../input/test_3chrs.fa.gff --gene ../input/test_3chrs.fa.bgf.gff --genemark bgf --gene ../input/test_3chrs.fa.genscan.gff --genemark genscan --feature ../input/test_3chrs.fa.RepeatMasker.out.gff --featmark TE --feature ../input/test_3chrs.fa.trf.dat.gff --featmark TRF
 
 
-References (This program has been used by several genome studies, including)
+References (This program has been used by several genome studies, such as)
 
   Ruiqiang Li*, Wei Fan*, Geng Tian*, Hongmei Zhu*, Lin He*, Jing Cai*, et.al. The sequence and de novo assembly of the giant panda genome. Nature 463, 311-317 (2010)
 
