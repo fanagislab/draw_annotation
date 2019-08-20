@@ -1,0 +1,2 @@
+chr1	mark	handmade	1000	2000	74	+	.	ID=tandemRepeat_0001; PeriodSize=20; CopyNumber=2.2; PercentMatches=92; PercentIndels=4; Consensus=ACACAAACACACACAAACATG;
+chr1	mark	handmade	10000	20000	68	+	.	ID=tandemRepeat_0002; PeriodSize=10; CopyNumber=5.2; PercentMatches=83; PercentIndels=0; Consensus=CACACACAAA;

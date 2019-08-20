@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="160" width="3414.15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="scale ruler">
+		<line stroke="#000000" stroke-width="1" x1="95.8" x2="3384.15" y1="130" y2="130" />
+		<text fill="#000000" font-family="ArialNarrow" font-size="18" x="69.298" xml:space="preserve" y="130">Mb
+		</text>
+		<line stroke="#000000" stroke-width="1" x1="95.8" x2="95.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="105.8" x2="105.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="115.8" x2="115.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="125.8" x2="125.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="135.8" x2="135.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="145.8" x2="145.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="155.8" x2="155.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="165.8" x2="165.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="175.8" x2="175.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="185.8" x2="185.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="195.8" x2="195.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="205.8" x2="205.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="215.8" x2="215.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="225.8" x2="225.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="235.8" x2="235.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="245.8" x2="245.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="255.8" x2="255.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="265.8" x2="265.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="275.8" x2="275.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="285.8" x2="285.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="295.8" x2="295.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="305.8" x2="305.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="315.8" x2="315.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="325.8" x2="325.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="335.8" x2="335.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="345.8" x2="345.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="355.8" x2="355.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="365.8" x2="365.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="375.8" x2="375.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="385.8" x2="385.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="395.8" x2="395.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="405.8" x2="405.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="415.8" x2="415.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="425.8" x2="425.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="435.8" x2="435.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="445.8" x2="445.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="455.8" x2="455.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="465.8" x2="465.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="475.8" x2="475.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="485.8" x2="485.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="495.8" x2="495.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="505.8" x2="505.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="515.8" x2="515.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="525.8" x2="525.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="535.8" x2="535.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="545.8" x2="545.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="555.8" x2="555.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="565.8" x2="565.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="575.8" x2="575.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="585.8" x2="585.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="595.8" x2="595.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="605.8" x2="605.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="615.8" x2="615.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="625.8" x2="625.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="635.8" x2="635.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="645.8" x2="645.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="655.8" x2="655.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="665.8" x2="665.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="675.8" x2="675.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="685.8" x2="685.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="695.8" x2="695.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="705.8" x2="705.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="715.8" x2="715.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="725.8" x2="725.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="735.8" x2="735.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="745.8" x2="745.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="755.8" x2="755.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="765.8" x2="765.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="775.8" x2="775.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="785.8" x2="785.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="795.8" x2="795.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="805.8" x2="805.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="815.8" x2="815.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="825.8" x2="825.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="835.8" x2="835.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="845.8" x2="845.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="855.8" x2="855.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="865.8" x2="865.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="875.8" x2="875.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="885.8" x2="885.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="895.8" x2="895.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="905.8" x2="905.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="915.8" x2="915.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="925.8" x2="925.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="935.8" x2="935.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="945.8" x2="945.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="955.8" x2="955.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="965.8" x2="965.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="975.8" x2="975.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="985.8" x2="985.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="995.8" x2="995.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1005.8" x2="1005.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1015.8" x2="1015.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1025.8" x2="1025.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1035.8" x2="1035.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1045.8" x2="1045.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1055.8" x2="1055.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1065.8" x2="1065.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1075.8" x2="1075.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1085.8" x2="1085.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1095.8" x2="1095.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1105.8" x2="1105.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1115.8" x2="1115.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1125.8" x2="1125.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1135.8" x2="1135.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1145.8" x2="1145.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1155.8" x2="1155.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1165.8" x2="1165.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1175.8" x2="1175.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1185.8" x2="1185.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1195.8" x2="1195.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1205.8" x2="1205.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1215.8" x2="1215.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1225.8" x2="1225.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1235.8" x2="1235.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1245.8" x2="1245.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1255.8" x2="1255.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1265.8" x2="1265.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1275.8" x2="1275.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1285.8" x2="1285.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1295.8" x2="1295.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1305.8" x2="1305.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1315.8" x2="1315.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1325.8" x2="1325.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1335.8" x2="1335.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1345.8" x2="1345.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1355.8" x2="1355.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1365.8" x2="1365.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1375.8" x2="1375.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1385.8" x2="1385.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1395.8" x2="1395.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1405.8" x2="1405.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1415.8" x2="1415.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1425.8" x2="1425.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1435.8" x2="1435.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1445.8" x2="1445.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1455.8" x2="1455.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1465.8" x2="1465.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1475.8" x2="1475.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1485.8" x2="1485.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1495.8" x2="1495.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1505.8" x2="1505.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1515.8" x2="1515.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1525.8" x2="1525.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1535.8" x2="1535.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1545.8" x2="1545.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1555.8" x2="1555.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1565.8" x2="1565.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1575.8" x2="1575.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1585.8" x2="1585.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1595.8" x2="1595.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1605.8" x2="1605.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1615.8" x2="1615.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1625.8" x2="1625.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1635.8" x2="1635.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1645.8" x2="1645.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1655.8" x2="1655.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1665.8" x2="1665.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1675.8" x2="1675.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1685.8" x2="1685.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1695.8" x2="1695.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1705.8" x2="1705.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1715.8" x2="1715.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1725.8" x2="1725.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1735.8" x2="1735.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1745.8" x2="1745.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1755.8" x2="1755.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1765.8" x2="1765.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1775.8" x2="1775.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1785.8" x2="1785.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1795.8" x2="1795.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1805.8" x2="1805.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1815.8" x2="1815.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1825.8" x2="1825.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1835.8" x2="1835.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1845.8" x2="1845.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1855.8" x2="1855.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1865.8" x2="1865.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1875.8" x2="1875.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1885.8" x2="1885.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1895.8" x2="1895.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1905.8" x2="1905.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1915.8" x2="1915.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1925.8" x2="1925.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1935.8" x2="1935.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1945.8" x2="1945.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1955.8" x2="1955.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1965.8" x2="1965.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1975.8" x2="1975.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1985.8" x2="1985.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1995.8" x2="1995.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2005.8" x2="2005.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2015.8" x2="2015.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2025.8" x2="2025.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2035.8" x2="2035.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2045.8" x2="2045.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2055.8" x2="2055.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2065.8" x2="2065.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2075.8" x2="2075.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2085.8" x2="2085.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2095.8" x2="2095.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2105.8" x2="2105.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2115.8" x2="2115.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2125.8" x2="2125.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2135.8" x2="2135.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2145.8" x2="2145.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2155.8" x2="2155.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2165.8" x2="2165.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2175.8" x2="2175.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2185.8" x2="2185.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2195.8" x2="2195.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2205.8" x2="2205.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2215.8" x2="2215.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2225.8" x2="2225.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2235.8" x2="2235.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2245.8" x2="2245.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2255.8" x2="2255.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2265.8" x2="2265.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2275.8" x2="2275.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2285.8" x2="2285.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2295.8" x2="2295.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2305.8" x2="2305.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2315.8" x2="2315.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2325.8" x2="2325.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2335.8" x2="2335.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2345.8" x2="2345.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2355.8" x2="2355.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2365.8" x2="2365.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2375.8" x2="2375.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2385.8" x2="2385.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2395.8" x2="2395.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2405.8" x2="2405.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2415.8" x2="2415.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2425.8" x2="2425.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2435.8" x2="2435.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2445.8" x2="2445.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2455.8" x2="2455.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2465.8" x2="2465.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2475.8" x2="2475.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2485.8" x2="2485.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2495.8" x2="2495.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2505.8" x2="2505.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2515.8" x2="2515.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2525.8" x2="2525.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2535.8" x2="2535.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2545.8" x2="2545.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2555.8" x2="2555.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2565.8" x2="2565.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2575.8" x2="2575.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2585.8" x2="2585.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2595.8" x2="2595.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2605.8" x2="2605.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2615.8" x2="2615.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2625.8" x2="2625.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2635.8" x2="2635.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2645.8" x2="2645.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2655.8" x2="2655.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2665.8" x2="2665.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2675.8" x2="2675.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2685.8" x2="2685.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2695.8" x2="2695.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2705.8" x2="2705.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2715.8" x2="2715.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2725.8" x2="2725.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2735.8" x2="2735.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2745.8" x2="2745.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2755.8" x2="2755.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2765.8" x2="2765.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2775.8" x2="2775.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2785.8" x2="2785.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2795.8" x2="2795.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2805.8" x2="2805.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2815.8" x2="2815.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2825.8" x2="2825.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2835.8" x2="2835.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2845.8" x2="2845.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2855.8" x2="2855.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2865.8" x2="2865.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2875.8" x2="2875.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2885.8" x2="2885.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2895.8" x2="2895.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2905.8" x2="2905.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2915.8" x2="2915.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2925.8" x2="2925.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2935.8" x2="2935.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2945.8" x2="2945.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2955.8" x2="2955.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2965.8" x2="2965.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2975.8" x2="2975.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2985.8" x2="2985.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2995.8" x2="2995.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3005.8" x2="3005.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3015.8" x2="3015.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3025.8" x2="3025.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3035.8" x2="3035.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3045.8" x2="3045.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3055.8" x2="3055.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3065.8" x2="3065.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3075.8" x2="3075.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3085.8" x2="3085.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3095.8" x2="3095.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3105.8" x2="3105.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3115.8" x2="3115.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3125.8" x2="3125.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3135.8" x2="3135.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3145.8" x2="3145.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3155.8" x2="3155.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3165.8" x2="3165.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3175.8" x2="3175.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3185.8" x2="3185.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3195.8" x2="3195.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3205.8" x2="3205.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3215.8" x2="3215.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3225.8" x2="3225.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3235.8" x2="3235.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3245.8" x2="3245.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3255.8" x2="3255.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3265.8" x2="3265.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3275.8" x2="3275.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3285.8" x2="3285.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3295.8" x2="3295.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3305.8" x2="3305.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3315.8" x2="3315.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3325.8" x2="3325.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3335.8" x2="3335.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3345.8" x2="3345.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3355.8" x2="3355.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3365.8" x2="3365.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3375.8" x2="3375.8" y1="127" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="95.8" x2="95.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="195.8" x2="195.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="295.8" x2="295.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="395.8" x2="395.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="495.8" x2="495.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="595.8" x2="595.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="695.8" x2="695.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="795.8" x2="795.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="895.8" x2="895.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="995.8" x2="995.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1095.8" x2="1095.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1195.8" x2="1195.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1295.8" x2="1295.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1395.8" x2="1395.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1495.8" x2="1495.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1595.8" x2="1595.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1695.8" x2="1695.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1795.8" x2="1795.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1895.8" x2="1895.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="1995.8" x2="1995.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2095.8" x2="2095.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2195.8" x2="2195.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2295.8" x2="2295.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2395.8" x2="2395.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2495.8" x2="2495.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2595.8" x2="2595.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2695.8" x2="2695.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2795.8" x2="2795.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2895.8" x2="2895.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="2995.8" x2="2995.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3095.8" x2="3095.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3195.8" x2="3195.8" y1="124" y2="130" />
+		<line stroke="#000000" stroke-width="1" x1="3295.8" x2="3295.8" y1="124" y2="130" />
+	</g>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="91.696" xml:space="preserve" y="146.96">6
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="181.436" xml:space="preserve" y="146.96">6.01
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="281.436" xml:space="preserve" y="146.96">6.02
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="381.436" xml:space="preserve" y="146.96">6.03
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="481.436" xml:space="preserve" y="146.96">6.04
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="581.436" xml:space="preserve" y="146.96">6.05
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="681.436" xml:space="preserve" y="146.96">6.06
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="781.436" xml:space="preserve" y="146.96">6.07
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="881.436" xml:space="preserve" y="146.96">6.08
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="981.436" xml:space="preserve" y="146.96">6.09
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1085.54" xml:space="preserve" y="146.96">6.1
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1181.436" xml:space="preserve" y="146.96">6.11
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1281.436" xml:space="preserve" y="146.96">6.12
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1381.436" xml:space="preserve" y="146.96">6.13
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1481.436" xml:space="preserve" y="146.96">6.14
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1581.436" xml:space="preserve" y="146.96">6.15
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1681.436" xml:space="preserve" y="146.96">6.16
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1781.436" xml:space="preserve" y="146.96">6.17
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1881.436" xml:space="preserve" y="146.96">6.18
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="1981.436" xml:space="preserve" y="146.96">6.19
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2085.54" xml:space="preserve" y="146.96">6.2
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2181.436" xml:space="preserve" y="146.96">6.21
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2281.436" xml:space="preserve" y="146.96">6.22
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2381.436" xml:space="preserve" y="146.96">6.23
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2481.436" xml:space="preserve" y="146.96">6.24
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2581.436" xml:space="preserve" y="146.96">6.25
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2681.436" xml:space="preserve" y="146.96">6.26
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2781.436" xml:space="preserve" y="146.96">6.27
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2881.436" xml:space="preserve" y="146.96">6.28
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="2981.436" xml:space="preserve" y="146.96">6.29
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="3085.54" xml:space="preserve" y="146.96">6.3
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="3181.436" xml:space="preserve" y="146.96">6.31
+	</text>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="3281.436" xml:space="preserve" y="146.96">6.32
+	</text>
+	<rect fill="black" height="12" onclick="alert('TE: DisperseRepeat_349')" width="0.860000000000127" x="801.49" y="110" />
+	<rect fill="black" height="12" onclick="alert('TE: DisperseRepeat_350')" width="0.799999999999955" x="801.62" y="110" />
+	<rect fill="black" height="12" onclick="alert('TE: DisperseRepeat_351')" width="1.28999999999996" x="801.71" y="110" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="30" xml:space="preserve" y="122.96">TE
+	</text>
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3641')" width="0.240000000000009" x="116.3" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3642')" width="0.539999999999964" x="208.09" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3643')" width="0.240000000000009" x="240.39" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3644')" width="0.240000000000009" x="256.21" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3645')" width="0.340000000000032" x="258.11" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3646')" width="0.239999999999952" x="258.32" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3647')" width="0.359999999999957" x="305.41" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3648')" width="0.409999999999854" x="632.68" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3649')" width="0.240000000000009" x="647" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3650')" width="0.240000000000009" x="778.26" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3651')" width="0.699999999999818" x="801.62" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3652')" width="0.279999999999973" x="951.02" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3653')" width="0.440000000000055" x="1014.26" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3654')" width="0.509999999999991" x="1038.93" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3655')" width="0.509999999999991" x="1045.6" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3656')" width="0.450000000000045" x="1194.35" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3657')" width="7.20000000000005" x="1203.14" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3658')" width="7.20000000000005" x="1203.14" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3659')" width="0.509999999999991" x="1237.28" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3660')" width="0.349999999999909" x="1325.18" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3661')" width="0.409999999999854" x="1438.45" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3662')" width="0.319999999999936" x="1564.57" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3663')" width="0.289999999999964" x="1645.51" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3664')" width="0.509999999999991" x="1821.62" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3665')" width="0.509999999999991" x="1849.56" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3666')" width="0.529999999999973" x="1849.56" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3667')" width="0.509999999999991" x="1849.56" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3668')" width="0.480000000000018" x="1904.45" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3669')" width="0.309999999999945" x="1981.32" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3670')" width="0.309999999999945" x="1981.32" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3671')" width="0.559999999999945" x="2292.25" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3672')" width="0.75" x="2292.2" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3673')" width="1.5600000000004" x="2338.69" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3674')" width="1.80000000000018" x="2338.45" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3675')" width="1.51999999999998" x="2338.53" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3676')" width="0.449999999999818" x="2340.33" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3677')" width="5.82000000000016" x="2409.4" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3678')" width="5.82000000000016" x="2409.4" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3679')" width="0.519999999999982" x="2459.86" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3680')" width="0.25" x="2477.73" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3681')" width="0.269999999999982" x="2542.93" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3682')" width="0.720000000000255" x="2648.86" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3683')" width="0.429999999999836" x="2856.81" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3684')" width="0.299999999999727" x="3108.81" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3685')" width="0.289999999999964" x="3166.08" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3686')" width="0.570000000000164" x="3206.4" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3687')" width="0.320000000000164" x="3246.59" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3688')" width="0.369999999999891" x="3246.75" y="90" />
+	<rect fill="blue" height="12" onclick="alert('TRF: tandemRepeat_3689')" width="0.289999999999964" x="3266.87" y="90" />
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="30" xml:space="preserve" y="102.96">TRF
+	</text>
+	<g id="bgf: BMB001967-TA">
+		<line stroke="black" stroke-width="1" x1="283.71" x2="287.31" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001967-TA')" width="1.90000000000003" x="281.81" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001967-TA')" width="2.52000000000004" x="287.31" y="70" />
+		<rect fill="white" height="12" width="1.90000000000003" x="281.81" y="70" />
+		<polygon fill="green" points="281.81, 76, 283.71, 82, 283.71, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001968-TA">
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001968-TA')" width="3.02000000000004" x="317.15" y="70" />
+		<rect fill="white" height="12" width="3.02000000000004" x="317.15" y="70" />
+		<polygon fill="green" points="317.15, 70, 317.15, 82, 320.17, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001969-TA">
+		<line stroke="black" stroke-width="1" x1="420.84" x2="427.4" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="428.95" x2="434.18" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="435.33" x2="442.82" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="444.23" x2="451.82" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="453.73" x2="457.91" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="458.69" x2="466.42" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="468.1" x2="478.32" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="480.04" x2="495.98" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="497.59" x2="498.32" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="1.35000000000002" x="419.49" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="1.55000000000001" x="427.4" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="1.15000000000003" x="434.18" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="1.41000000000003" x="442.82" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="1.91000000000003" x="451.82" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="0.779999999999973" x="457.91" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="1.68000000000001" x="466.42" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="1.72000000000003" x="478.32" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="1.61000000000001" x="495.98" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001969-TA')" width="1.41000000000003" x="498.32" y="70" />
+		<rect fill="white" height="12" width="1.41000000000003" x="498.32" y="70" />
+		<polygon fill="green" points="498.32, 70, 498.32, 82, 499.73, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001970-TA">
+		<line stroke="black" stroke-width="1" x1="503.46" x2="504.47" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="505.35" x2="527.02" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="528.21" x2="530.63" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="532.01" x2="532.76" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="534.81" x2="540.44" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001970-TA')" width="1.23000000000002" x="502.23" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001970-TA')" width="0.879999999999995" x="504.47" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001970-TA')" width="1.19000000000005" x="527.02" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001970-TA')" width="1.38" x="530.63" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001970-TA')" width="2.04999999999995" x="532.76" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001970-TA')" width="12.6799999999999" x="540.44" y="70" />
+		<rect fill="white" height="12" width="12" x="541.12" y="70" />
+		<polygon fill="green" points="541.12, 70, 541.12, 82, 553.12, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001971-TA">
+		<line stroke="black" stroke-width="1" x1="607.98" x2="610.26" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="611.96" x2="623.23" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="625.24" x2="632.65" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="634.16" x2="638.04" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="639.23" x2="648.41" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="649.51" x2="655.33" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="656.22" x2="666.05" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="667.42" x2="675.82" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="677" x2="682.55" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="0.1400000000001" x="607.84" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="1.70000000000005" x="610.26" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="2.00999999999999" x="623.23" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="1.50999999999999" x="632.65" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="1.19000000000005" x="638.04" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="1.09999999999991" x="648.41" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="0.8900000000001" x="655.33" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="1.37000000000012" x="666.05" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="1.18000000000006" x="675.82" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001971-TA')" width="2.00999999999999" x="682.55" y="70" />
+		<rect fill="white" height="12" width="2.00999999999999" x="682.55" y="70" />
+		<polygon fill="green" points="682.55, 70, 682.55, 82, 684.56, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001972-TA">
+		<line stroke="black" stroke-width="1" x1="694.87" x2="707.76" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="709.05" x2="712.65" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="713.89" x2="717.2" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="718.88" x2="732.07" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="732.99" x2="737.84" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="738.58" x2="749.71" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="751.33" x2="760.24" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="761.51" x2="762.45" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="763.76" x2="764.72" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="766.57" x2="773.22" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="774.91" x2="780.56" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="784.5" x2="787.9" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="789.02" x2="793.24" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="794.82" x2="799.66" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="801.26" x2="851.01" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="852.03" x2="864.45" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.57000000000016" x="693.3" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.28999999999996" x="707.76" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.24000000000001" x="712.65" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.68000000000006" x="717.2" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="0.920000000000073" x="732.07" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="0.740000000000009" x="737.84" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.61999999999989" x="749.71" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.26999999999998" x="760.24" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.30999999999995" x="762.45" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.84999999999991" x="764.72" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.69000000000005" x="773.22" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="3.94000000000005" x="780.56" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.11999999999989" x="787.9" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.57999999999993" x="793.24" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.59999999999991" x="799.66" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.01999999999998" x="851.01" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001972-TA')" width="1.6099999999999" x="864.45" y="70" />
+		<rect fill="white" height="12" width="1.6099999999999" x="864.45" y="70" />
+		<polygon fill="green" points="864.45, 70, 864.45, 82, 866.06, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001973-TA">
+		<line stroke="black" stroke-width="1" x1="876.48" x2="877.19" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="880.43" x2="886.17" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="887.81" x2="891.55" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="893.45" x2="898.76" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001973-TA')" width="1.49000000000001" x="874.99" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001973-TA')" width="3.24000000000001" x="877.19" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001973-TA')" width="1.63999999999987" x="886.17" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001973-TA')" width="1.90000000000009" x="891.55" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001973-TA')" width="17.3" x="898.76" y="70" />
+		<rect fill="white" height="12" width="12" x="904.06" y="70" />
+		<polygon fill="green" points="904.06, 70, 904.06, 82, 916.06, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001974-TA">
+		<line stroke="black" stroke-width="1" x1="984.23" x2="991.25" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="992.41" x2="999.29" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1001.14" x2="1007.03" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1009.1" x2="1011.41" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1012.68" x2="1033.58" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1034.77" x2="1038.19" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001974-TA')" width="0.680000000000064" x="983.55" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001974-TA')" width="1.16000000000008" x="991.25" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001974-TA')" width="1.85000000000014" x="999.29" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001974-TA')" width="2.07000000000016" x="1007.03" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001974-TA')" width="1.26999999999998" x="1011.41" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001974-TA')" width="1.19000000000005" x="1033.58" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001974-TA')" width="2.89999999999986" x="1038.19" y="70" />
+		<rect fill="white" height="12" width="2.89999999999986" x="1038.19" y="70" />
+		<polygon fill="green" points="1038.19, 70, 1038.19, 82, 1041.09, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001975-TA">
+		<line stroke="black" stroke-width="1" x1="1052.18" x2="1053.8" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1055.58" x2="1064.09" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1065.61" x2="1068.94" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1070.34" x2="1073.08" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001975-TA')" width="2" x="1050.18" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001975-TA')" width="1.77999999999997" x="1053.8" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001975-TA')" width="1.52000000000021" x="1064.09" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001975-TA')" width="1.39999999999986" x="1068.94" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001975-TA')" width="1.25999999999999" x="1073.08" y="70" />
+		<rect fill="white" height="12" width="1.25999999999999" x="1073.08" y="70" />
+		<polygon fill="green" points="1073.08, 70, 1073.08, 82, 1074.34, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001976-TA">
+		<line stroke="black" stroke-width="1" x1="1115.33" x2="1126.59" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001976-TA')" width="2.22999999999979" x="1113.1" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001976-TA')" width="9.60000000000014" x="1126.59" y="70" />
+		<rect fill="white" height="12" width="9.60000000000014" x="1126.59" y="70" />
+		<polygon fill="green" points="1126.59, 70, 1126.59, 82, 1136.19, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001977-TA">
+		<line stroke="black" stroke-width="1" x1="1211.36" x2="1218.18" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1219.51" x2="1243.28" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1244.2" x2="1250.55" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1257.9" x2="1281.48" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001977-TA')" width="6.50999999999999" x="1204.85" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001977-TA')" width="1.32999999999993" x="1218.18" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001977-TA')" width="0.920000000000073" x="1243.28" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001977-TA')" width="7.35000000000014" x="1250.55" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001977-TA')" width="1.48000000000002" x="1281.48" y="70" />
+		<rect fill="white" height="12" width="6.50999999999999" x="1204.85" y="70" />
+		<polygon fill="green" points="1204.85, 76, 1211.36, 82, 1211.36, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001978-TA">
+		<line stroke="black" stroke-width="1" x1="1337.2" x2="1343.03" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1344.29" x2="1352.78" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1353.45" x2="1360.12" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1361.93" x2="1369.2" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001978-TA')" width="0.990000000000009" x="1336.21" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001978-TA')" width="1.25999999999999" x="1343.03" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001978-TA')" width="0.670000000000073" x="1352.78" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001978-TA')" width="1.81000000000017" x="1360.12" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001978-TA')" width="1.81999999999994" x="1369.2" y="70" />
+		<rect fill="white" height="12" width="1.81999999999994" x="1369.2" y="70" />
+		<polygon fill="green" points="1369.2, 70, 1369.2, 82, 1371.02, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001979-TA">
+		<line stroke="black" stroke-width="1" x1="1429.76" x2="1435.58" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1436.75" x2="1447.31" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001979-TA')" width="1.41000000000008" x="1428.35" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001979-TA')" width="1.17000000000007" x="1435.58" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001979-TA')" width="7.28999999999996" x="1447.31" y="70" />
+		<rect fill="white" height="12" width="7.28999999999996" x="1447.31" y="70" />
+		<polygon fill="green" points="1447.31, 70, 1447.31, 82, 1454.6, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001980-TA">
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001980-TA')" width="6.79999999999995" x="1458.26" y="70" />
+		<rect fill="white" height="12" width="6.79999999999995" x="1458.26" y="70" />
+		<polygon fill="green" points="1458.26, 76, 1465.06, 82, 1465.06, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001981-TA">
+		<line stroke="black" stroke-width="1" x1="1673.94" x2="1686.89" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001981-TA')" width="0.700000000000045" x="1673.24" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001981-TA')" width="4.79999999999995" x="1686.89" y="70" />
+		<rect fill="white" height="12" width="0.700000000000045" x="1673.24" y="70" />
+		<polygon fill="green" points="1673.24, 76, 1673.94, 82, 1673.94, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001982-TA">
+		<line stroke="black" stroke-width="1" x1="1751.48" x2="1774.79" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001982-TA')" width="3.16000000000008" x="1748.32" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001982-TA')" width="0.480000000000018" x="1774.79" y="70" />
+		<rect fill="white" height="12" width="3.16000000000008" x="1748.32" y="70" />
+		<polygon fill="green" points="1748.32, 76, 1751.48, 82, 1751.48, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001983-TA">
+		<line stroke="black" stroke-width="1" x1="1796.65" x2="1799.9" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1801.14" x2="1807.11" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1807.98" x2="1812.23" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1813.24" x2="1820.53" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001983-TA')" width="1.07000000000016" x="1795.58" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001983-TA')" width="1.24000000000001" x="1799.9" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001983-TA')" width="0.870000000000118" x="1807.11" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001983-TA')" width="1.00999999999999" x="1812.23" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001983-TA')" width="2.36000000000013" x="1820.53" y="70" />
+		<rect fill="white" height="12" width="1.07000000000016" x="1795.58" y="70" />
+		<polygon fill="green" points="1795.58, 76, 1796.65, 82, 1796.65, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001984-TA">
+		<line stroke="black" stroke-width="1" x1="1829.83" x2="1839.28" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1841.05" x2="1844.35" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1845.01" x2="1853.01" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1853.98" x2="1855.14" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1856.21" x2="1873.27" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1874.1" x2="1888.19" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="1889.32" x2="1898.61" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001984-TA')" width="1.50999999999999" x="1828.32" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001984-TA')" width="1.76999999999998" x="1839.28" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001984-TA')" width="0.660000000000082" x="1844.35" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001984-TA')" width="0.970000000000027" x="1853.01" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001984-TA')" width="1.06999999999994" x="1855.14" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001984-TA')" width="0.829999999999927" x="1873.27" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001984-TA')" width="1.12999999999988" x="1888.19" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001984-TA')" width="1.37000000000012" x="1898.61" y="70" />
+		<rect fill="white" height="12" width="1.50999999999999" x="1828.32" y="70" />
+		<polygon fill="green" points="1828.32, 76, 1829.83, 82, 1829.83, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001985-TA">
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001985-TA')" width="1.6400000000001" x="2010.54" y="70" />
+		<rect fill="white" height="12" width="1.6400000000001" x="2010.54" y="70" />
+		<polygon fill="green" points="2010.54, 76, 2012.18, 82, 2012.18, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001986-TA">
+		<line stroke="black" stroke-width="1" x1="2034.81" x2="2045.82" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001986-TA')" width="2.21000000000004" x="2032.6" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001986-TA')" width="0.200000000000045" x="2045.82" y="70" />
+		<rect fill="white" height="12" width="2.21000000000004" x="2032.6" y="70" />
+		<polygon fill="green" points="2032.6, 76, 2034.81, 82, 2034.81, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001987-TA">
+		<line stroke="black" stroke-width="1" x1="2100.15" x2="2114.71" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001987-TA')" width="4.63999999999987" x="2095.51" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001987-TA')" width="3.76999999999998" x="2114.71" y="70" />
+		<rect fill="white" height="12" width="4.63999999999987" x="2095.51" y="70" />
+		<polygon fill="green" points="2095.51, 76, 2100.15, 82, 2100.15, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001988-TA">
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001988-TA')" width="2.30000000000018" x="2141.58" y="70" />
+		<rect fill="white" height="12" width="2.30000000000018" x="2141.58" y="70" />
+		<polygon fill="green" points="2141.58, 76, 2143.88, 82, 2143.88, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001989-TA">
+		<line stroke="black" stroke-width="1" x1="2222.61" x2="2237.24" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2239.24" x2="2240.11" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2241.78" x2="2243.78" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2244.94" x2="2247" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2249.45" x2="2271.86" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001989-TA')" width="2.21000000000004" x="2220.4" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001989-TA')" width="2" x="2237.24" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001989-TA')" width="1.67000000000007" x="2240.11" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001989-TA')" width="1.15999999999985" x="2243.78" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001989-TA')" width="2.45000000000027" x="2247" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001989-TA')" width="0.800000000000182" x="2271.86" y="70" />
+		<rect fill="white" height="12" width="2.21000000000004" x="2220.4" y="70" />
+		<polygon fill="green" points="2220.4, 76, 2222.61, 82, 2222.61, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001990-TA">
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001990-TA')" width="6.67999999999984" x="2315.64" y="70" />
+		<rect fill="white" height="12" width="6.67999999999984" x="2315.64" y="70" />
+		<polygon fill="green" points="2315.64, 70, 2315.64, 82, 2322.32, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001991-TA">
+		<line stroke="black" stroke-width="1" x1="2374.01" x2="2384.26" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001991-TA')" width="7.46000000000004" x="2366.55" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001991-TA')" width="0.0500000000001819" x="2384.26" y="70" />
+		<rect fill="white" height="12" width="0.0500000000001819" x="2384.26" y="70" />
+		<polygon fill="green" points="2384.26, 70, 2384.26, 82, 2384.31, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001992-TA">
+		<line stroke="black" stroke-width="1" x1="2414.83" x2="2416.73" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2417.96" x2="2429.09" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2430.29" x2="2437.31" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2438.26" x2="2444.45" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001992-TA')" width="5.48000000000002" x="2409.35" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001992-TA')" width="1.23000000000002" x="2416.73" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001992-TA')" width="1.20000000000027" x="2429.09" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001992-TA')" width="0.949999999999818" x="2437.31" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001992-TA')" width="1.71000000000004" x="2444.45" y="70" />
+		<rect fill="white" height="12" width="1.71000000000004" x="2444.45" y="70" />
+		<polygon fill="green" points="2444.45, 70, 2444.45, 82, 2446.16, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001993-TA">
+		<line stroke="black" stroke-width="1" x1="2503.3" x2="2504.54" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2506.76" x2="2521.56" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2522.9" x2="2529.12" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2530.59" x2="2535.92" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2536.44" x2="2544.23" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2545.1" x2="2555.51" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2556.19" x2="2559.88" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2560.71" x2="2563.08" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2564.68" x2="2568.06" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="5.78999999999996" x="2497.51" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="2.2199999999998" x="2504.54" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="1.33999999999969" x="2521.56" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="1.4699999999998" x="2529.12" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="0.519999999999982" x="2535.92" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="0.870000000000346" x="2544.23" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="0.679999999999836" x="2555.51" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="0.829999999999927" x="2559.88" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="1.59999999999991" x="2563.08" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001993-TA')" width="0.960000000000036" x="2568.06" y="70" />
+		<rect fill="white" height="12" width="0.960000000000036" x="2568.06" y="70" />
+		<polygon fill="green" points="2568.06, 70, 2568.06, 82, 2569.02, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001994-TA">
+		<line stroke="black" stroke-width="1" x1="2578.77" x2="2579.44" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2582.61" x2="2585" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2587.73" x2="2590.36" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2601.18" x2="2610.76" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001994-TA')" width="1.85000000000036" x="2576.92" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001994-TA')" width="3.17000000000007" x="2579.44" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001994-TA')" width="2.72999999999956" x="2585" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001994-TA')" width="10.8200000000002" x="2590.36" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001994-TA')" width="2.01999999999998" x="2610.76" y="70" />
+		<rect fill="white" height="12" width="2.01999999999998" x="2610.76" y="70" />
+		<polygon fill="green" points="2610.76, 70, 2610.76, 82, 2612.78, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001995-TA">
+		<line stroke="black" stroke-width="1" x1="2626.89" x2="2631.01" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2632.39" x2="2636.97" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001995-TA')" width="0.130000000000109" x="2626.76" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001995-TA')" width="1.38000000000011" x="2631.01" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001995-TA')" width="2.38999999999987" x="2636.97" y="70" />
+		<rect fill="white" height="12" width="2.38999999999987" x="2636.97" y="70" />
+		<polygon fill="green" points="2636.97, 70, 2636.97, 82, 2639.36, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001996-TA">
+		<line stroke="black" stroke-width="1" x1="2704.83" x2="2710.01" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2711.82" x2="2713.14" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2715.23" x2="2720.5" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2728.41" x2="2732.24" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2734.07" x2="2748.43" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2749.96" x2="2757.73" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001996-TA')" width="0.850000000000364" x="2703.98" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001996-TA')" width="1.80999999999995" x="2710.01" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001996-TA')" width="2.08999999999969" x="2713.14" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001996-TA')" width="7.90999999999985" x="2720.5" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001996-TA')" width="1.82999999999993" x="2732.24" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001996-TA')" width="1.52999999999975" x="2748.43" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001996-TA')" width="2.75" x="2757.73" y="70" />
+		<rect fill="white" height="12" width="2.75" x="2757.73" y="70" />
+		<polygon fill="green" points="2757.73, 70, 2757.73, 82, 2760.48, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001997-TA">
+		<line stroke="black" stroke-width="1" x1="2835.95" x2="2836.88" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2838.01" x2="2841.95" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2843.31" x2="2857.38" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2859.57" x2="2864.42" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001997-TA')" width="1.38999999999987" x="2834.56" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001997-TA')" width="1.13000000000011" x="2836.88" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001997-TA')" width="1.36000000000013" x="2841.95" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001997-TA')" width="2.19000000000005" x="2857.38" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001997-TA')" width="0.510000000000218" x="2864.42" y="70" />
+		<rect fill="white" height="12" width="1.38999999999987" x="2834.56" y="70" />
+		<polygon fill="green" points="2834.56, 76, 2835.95, 82, 2835.95, 70" stroke="green" />
+	</g>
+	<g id="bgf: BMB001998-TA">
+		<line stroke="black" stroke-width="1" x1="2908.66" x2="2914.59" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="2969.87" x2="2970.88" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001998-TA')" width="0.5300000000002" x="2908.13" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001998-TA')" width="55.2800000000002" x="2914.59" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001998-TA')" width="1.19000000000005" x="2970.88" y="70" />
+		<rect fill="white" height="12" width="1.19000000000005" x="2970.88" y="70" />
+		<polygon fill="green" points="2970.88, 70, 2970.88, 82, 2972.07, 76" stroke="green" />
+	</g>
+	<g id="bgf: BMB001999-TA">
+		<line stroke="black" stroke-width="1" x1="3065.35" x2="3079.44" y1="76" y2="76" />
+		<line stroke="black" stroke-width="1" x1="3081.35" x2="3088.17" y1="76" y2="76" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001999-TA')" width="1.94000000000005" x="3063.41" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001999-TA')" width="1.91000000000031" x="3079.44" y="70" />
+		<rect fill="green" height="12" onclick="alert('bgf: BMB001999-TA')" width="0.710000000000036" x="3088.17" y="70" />
+		<rect fill="white" height="12" width="0.710000000000036" x="3088.17" y="70" />
+		<polygon fill="green" points="3088.17, 70, 3088.17, 82, 3088.88, 76" stroke="green" />
+	</g>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="30" xml:space="preserve" y="82.96">bgf
+	</text>
+	<g id="genscan: BMS002441-TA">
+		<line stroke="black" stroke-width="1" x1="151.39" x2="190.51" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="191.89" x2="194.37" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="195.36" x2="243.24" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="245.65" x2="281.98" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="283.71" x2="287.31" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002441-TA')" width="1.44" x="149.95" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002441-TA')" width="1.38" x="190.51" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002441-TA')" width="0.990000000000009" x="194.37" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002441-TA')" width="2.41" x="243.24" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002441-TA')" width="1.73000000000002" x="281.98" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002441-TA')" width="2.52000000000004" x="287.31" y="50" />
+		<rect fill="white" height="12" width="1.44" x="149.95" y="50" />
+		<polygon fill="red" points="149.95, 56, 151.39, 62, 151.39, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002442-TA">
+		<line stroke="black" stroke-width="1" x1="307.68" x2="308.31" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="310.19" x2="313.39" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="315.28" x2="316.72" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="319.87" x2="409.82" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="411.03" x2="419.3" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="420.84" x2="427.4" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="428.95" x2="434.18" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="435.33" x2="442.82" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="444.23" x2="451.82" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="453.73" x2="457.91" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="458.69" x2="466.42" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="468.1" x2="478.32" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="480.04" x2="495.98" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="497.59" x2="498.32" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="499.23" x2="504.47" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="505.35" x2="527.02" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="528.21" x2="530.63" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="532.01" x2="532.76" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="534.81" x2="540.44" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="0.54000000000002" x="307.14" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.88000000000005" x="308.31" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.89000000000004" x="313.39" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="3.14999999999998" x="316.72" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.21000000000004" x="409.82" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.54000000000002" x="419.3" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.55000000000001" x="427.4" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.15000000000003" x="434.18" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.41000000000003" x="442.82" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.91000000000003" x="451.82" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="0.779999999999973" x="457.91" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.68000000000001" x="466.42" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.72000000000003" x="478.32" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.61000000000001" x="495.98" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="0.910000000000025" x="498.32" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="0.879999999999995" x="504.47" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.19000000000005" x="527.02" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="1.38" x="530.63" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="2.04999999999995" x="532.76" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002442-TA')" width="12.6799999999999" x="540.44" y="50" />
+		<rect fill="white" height="12" width="12" x="541.12" y="50" />
+		<polygon fill="red" points="541.12, 50, 541.12, 62, 553.12, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002443-TA">
+		<line stroke="black" stroke-width="1" x1="592.95" x2="610.51" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="611.96" x2="623.23" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="625.24" x2="632.65" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="634.16" x2="638.04" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="639.23" x2="648.41" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="649.51" x2="655.33" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="656.22" x2="666.05" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="667.42" x2="675.82" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="677" x2="682.55" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="683.99" x2="692.73" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="694.87" x2="707.76" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="709.05" x2="712.65" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="713.89" x2="717.2" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="718.88" x2="732.07" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="732.99" x2="737.84" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="738.58" x2="749.32" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="751.33" x2="760.24" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="761.51" x2="762.45" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="763.76" x2="764.72" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="766.72" x2="766.87" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="767.79" x2="773.22" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="775.19" x2="780.96" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="784.5" x2="787.9" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="789.02" x2="793.24" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="794.82" x2="799.66" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="801.26" x2="811.89" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="813.96" x2="836.05" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="837.38" x2="851.01" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="852.03" x2="864.45" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="865.75" x2="875.16" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="876.48" x2="877.82" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="880.43" x2="886.17" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="887.81" x2="891.55" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="893.45" x2="898.76" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="915.94" x2="991.25" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="992.8" x2="999.29" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1001.14" x2="1007.03" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1009.1" x2="1011.41" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1012.68" x2="1033.58" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="0.450000000000045" x="592.5" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.45000000000005" x="610.51" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="2.00999999999999" x="623.23" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.50999999999999" x="632.65" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.19000000000005" x="638.04" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.09999999999991" x="648.41" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="0.8900000000001" x="655.33" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.37000000000012" x="666.05" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.18000000000006" x="675.82" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.44000000000005" x="682.55" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="2.1400000000001" x="692.73" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.28999999999996" x="707.76" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.24000000000001" x="712.65" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.68000000000006" x="717.2" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="0.920000000000073" x="732.07" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="0.740000000000009" x="737.84" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="2.00999999999999" x="749.32" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.26999999999998" x="760.24" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.30999999999995" x="762.45" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="2" x="764.72" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="0.919999999999845" x="766.87" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.97000000000003" x="773.22" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="3.53999999999996" x="780.96" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.11999999999989" x="787.9" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.57999999999993" x="793.24" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.59999999999991" x="799.66" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="2.06999999999994" x="811.89" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.33000000000015" x="836.05" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.01999999999998" x="851.01" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.29999999999995" x="864.45" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.31999999999994" x="875.16" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="2.61000000000013" x="877.82" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.63999999999987" x="886.17" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.90000000000009" x="891.55" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="17.1800000000001" x="898.76" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.54999999999995" x="991.25" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.85000000000014" x="999.29" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="2.07000000000016" x="1007.03" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="1.26999999999998" x="1011.41" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002443-TA')" width="2.27000000000021" x="1033.58" y="50" />
+		<rect fill="white" height="12" width="2.27000000000021" x="1033.58" y="50" />
+		<polygon fill="red" points="1033.58, 50, 1033.58, 62, 1035.85, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002444-TA">
+		<line stroke="black" stroke-width="1" x1="103.22" x2="120.93" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002444-TA')" width="0.25" x="102.97" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002444-TA')" width="1.59" x="120.93" y="50" />
+		<rect fill="white" height="12" width="1.59" x="120.93" y="50" />
+		<polygon fill="red" points="120.93, 50, 120.93, 62, 122.52, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002445-TA">
+		<line stroke="black" stroke-width="1" x1="1040.28" x2="1045.94" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1046.95" x2="1053.8" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1055.58" x2="1064.09" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1065.61" x2="1068.94" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1070.34" x2="1075.43" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1076.41" x2="1113.81" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002445-TA')" width="1.84999999999991" x="1038.43" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002445-TA')" width="1.00999999999999" x="1045.94" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002445-TA')" width="1.77999999999997" x="1053.8" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002445-TA')" width="1.52000000000021" x="1064.09" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002445-TA')" width="1.39999999999986" x="1068.94" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002445-TA')" width="0.980000000000018" x="1075.43" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002445-TA')" width="1.74000000000001" x="1113.81" y="50" />
+		<rect fill="white" height="12" width="1.74000000000001" x="1113.81" y="50" />
+		<polygon fill="red" points="1113.81, 50, 1113.81, 62, 1115.55, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002446-TA">
+		<line stroke="black" stroke-width="1" x1="1125.22" x2="1126.59" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002446-TA')" width="2.1400000000001" x="1123.08" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002446-TA')" width="9.60000000000014" x="1126.59" y="50" />
+		<rect fill="white" height="12" width="9.60000000000014" x="1126.59" y="50" />
+		<polygon fill="red" points="1126.59, 50, 1126.59, 62, 1136.19, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002447-TA">
+		<line stroke="black" stroke-width="1" x1="1211.36" x2="1218.18" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1219.51" x2="1235.31" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1236.77" x2="1243.28" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1244.89" x2="1250.55" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1257.9" x2="1281.48" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002447-TA')" width="6.50999999999999" x="1204.85" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002447-TA')" width="1.32999999999993" x="1218.18" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002447-TA')" width="1.46000000000004" x="1235.31" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002447-TA')" width="1.6099999999999" x="1243.28" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002447-TA')" width="7.35000000000014" x="1250.55" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002447-TA')" width="1.89999999999986" x="1281.48" y="50" />
+		<rect fill="white" height="12" width="6.50999999999999" x="1204.85" y="50" />
+		<polygon fill="red" points="1204.85, 56, 1211.36, 62, 1211.36, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002448-TA">
+		<line stroke="black" stroke-width="1" x1="1337.2" x2="1343.03" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1344.29" x2="1346.05" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1347.1" x2="1348.89" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1350.59" x2="1350.97" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1353.45" x2="1359.93" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1361.93" x2="1369.2" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1370.85" x2="1379.89" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002448-TA')" width="0.990000000000009" x="1336.21" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002448-TA')" width="1.25999999999999" x="1343.03" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002448-TA')" width="1.04999999999995" x="1346.05" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002448-TA')" width="1.70000000000005" x="1348.89" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002448-TA')" width="2.48000000000002" x="1350.97" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002448-TA')" width="2" x="1359.93" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002448-TA')" width="1.64999999999986" x="1369.2" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002448-TA')" width="2.44000000000005" x="1379.89" y="50" />
+		<rect fill="white" height="12" width="2.44000000000005" x="1379.89" y="50" />
+		<polygon fill="red" points="1379.89, 50, 1379.89, 62, 1382.33, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002449-TA">
+		<line stroke="black" stroke-width="1" x1="1397.42" x2="1401.05" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002449-TA')" width="4.30000000000018" x="1393.12" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002449-TA')" width="13.26" x="1401.05" y="50" />
+		<rect fill="white" height="12" width="12" x="1402.31" y="50" />
+		<polygon fill="red" points="1402.31, 50, 1402.31, 62, 1414.31, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002450-TA">
+		<line stroke="black" stroke-width="1" x1="1429.76" x2="1435.58" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1436.75" x2="1442.93" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1444.36" x2="1447.31" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002450-TA')" width="1.41000000000008" x="1428.35" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002450-TA')" width="1.17000000000007" x="1435.58" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002450-TA')" width="1.42999999999984" x="1442.93" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002450-TA')" width="7.28999999999996" x="1447.31" y="50" />
+		<rect fill="white" height="12" width="7.28999999999996" x="1447.31" y="50" />
+		<polygon fill="red" points="1447.31, 50, 1447.31, 62, 1454.6, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002451-TA">
+		<line stroke="black" stroke-width="1" x1="1467.93" x2="1504.23" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002451-TA')" width="9.67000000000007" x="1458.26" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002451-TA')" width="0.779999999999973" x="1504.23" y="50" />
+		<rect fill="white" height="12" width="9.67000000000007" x="1458.26" y="50" />
+		<polygon fill="red" points="1458.26, 56, 1467.93, 62, 1467.93, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002452-TA">
+		<line stroke="black" stroke-width="1" x1="1547.72" x2="1555.26" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002452-TA')" width="2.75999999999999" x="1544.96" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002452-TA')" width="0.579999999999927" x="1555.26" y="50" />
+		<rect fill="white" height="12" width="2.75999999999999" x="1544.96" y="50" />
+		<polygon fill="red" points="1544.96, 56, 1547.72, 62, 1547.72, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002453-TA">
+		<line stroke="black" stroke-width="1" x1="1619.92" x2="1623.63" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1625.32" x2="1658.12" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1659.1" x2="1673.28" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1674.51" x2="1686.89" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1691.83" x2="1713.3" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1714.16" x2="1719.91" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002453-TA')" width="1.0300000000002" x="1618.89" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002453-TA')" width="1.69000000000005" x="1623.63" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002453-TA')" width="0.980000000000018" x="1658.12" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002453-TA')" width="1.23000000000002" x="1673.28" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002453-TA')" width="4.93999999999983" x="1686.89" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002453-TA')" width="0.860000000000127" x="1713.3" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002453-TA')" width="3.44999999999982" x="1719.91" y="50" />
+		<rect fill="white" height="12" width="1.0300000000002" x="1618.89" y="50" />
+		<polygon fill="red" points="1618.89, 56, 1619.92, 62, 1619.92, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002454-TA">
+		<line stroke="black" stroke-width="1" x1="1750.82" x2="1774.79" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002454-TA')" width="2.5" x="1748.32" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002454-TA')" width="0.480000000000018" x="1774.79" y="50" />
+		<rect fill="white" height="12" width="2.5" x="1748.32" y="50" />
+		<polygon fill="red" points="1748.32, 56, 1750.82, 62, 1750.82, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002455-TA">
+		<line stroke="black" stroke-width="1" x1="1781.96" x2="1785.09" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002455-TA')" width="0.0699999999999363" x="1781.89" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002455-TA')" width="2.55000000000018" x="1785.09" y="50" />
+		<rect fill="white" height="12" width="2.55000000000018" x="1785.09" y="50" />
+		<polygon fill="red" points="1785.09, 50, 1785.09, 62, 1787.64, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002456-TA">
+		<line stroke="black" stroke-width="1" x1="1796.65" x2="1799.9" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1801.14" x2="1807.11" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1807.98" x2="1812.23" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1813.24" x2="1815.33" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1817.15" x2="1820.53" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002456-TA')" width="1.07000000000016" x="1795.58" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002456-TA')" width="1.24000000000001" x="1799.9" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002456-TA')" width="0.870000000000118" x="1807.11" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002456-TA')" width="1.00999999999999" x="1812.23" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002456-TA')" width="1.82000000000016" x="1815.33" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002456-TA')" width="2.36000000000013" x="1820.53" y="50" />
+		<rect fill="white" height="12" width="1.07000000000016" x="1795.58" y="50" />
+		<polygon fill="red" points="1795.58, 56, 1796.65, 62, 1796.65, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002457-TA">
+		<line stroke="black" stroke-width="1" x1="1829.83" x2="1839.28" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1844.02" x2="1844.35" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1845.01" x2="1853.01" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1853.98" x2="1855.14" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1856.21" x2="1873.27" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1874.1" x2="1888.19" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1889.32" x2="1898.61" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1900.18" x2="1937.67" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1939.75" x2="1960.15" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1962.61" x2="1974.77" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="1975.46" x2="1981.1" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="1.50999999999999" x="1828.32" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="4.74000000000001" x="1839.28" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="0.660000000000082" x="1844.35" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="0.970000000000027" x="1853.01" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="1.06999999999994" x="1855.14" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="0.829999999999927" x="1873.27" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="1.12999999999988" x="1888.19" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="1.57000000000016" x="1898.61" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="2.07999999999993" x="1937.67" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="2.45999999999981" x="1960.15" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="0.690000000000055" x="1974.77" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002457-TA')" width="0.620000000000118" x="1981.1" y="50" />
+		<rect fill="white" height="12" width="1.50999999999999" x="1828.32" y="50" />
+		<polygon fill="red" points="1828.32, 56, 1829.83, 62, 1829.83, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002458-TA">
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002458-TA')" width="1.6400000000001" x="2010.54" y="50" />
+		<rect fill="white" height="12" width="1.6400000000001" x="2010.54" y="50" />
+		<polygon fill="red" points="2010.54, 56, 2012.18, 62, 2012.18, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002459-TA">
+		<line stroke="black" stroke-width="1" x1="2034.81" x2="2036.67" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2038.47" x2="2038.87" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2040.24" x2="2056.51" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2058.59" x2="2096.02" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2100.15" x2="2114.71" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002459-TA')" width="2.21000000000004" x="2032.6" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002459-TA')" width="1.79999999999995" x="2036.67" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002459-TA')" width="1.37000000000012" x="2038.87" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002459-TA')" width="2.07999999999993" x="2056.51" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002459-TA')" width="4.13000000000011" x="2096.02" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002459-TA')" width="3.76999999999998" x="2114.71" y="50" />
+		<rect fill="white" height="12" width="2.21000000000004" x="2032.6" y="50" />
+		<polygon fill="red" points="2032.6, 56, 2034.81, 62, 2034.81, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002460-TA">
+		<line stroke="black" stroke-width="1" x1="2144.23" x2="2145.39" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002460-TA')" width="2.65000000000009" x="2141.58" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002460-TA')" width="5.54999999999973" x="2145.39" y="50" />
+		<rect fill="white" height="12" width="2.65000000000009" x="2141.58" y="50" />
+		<polygon fill="red" points="2141.58, 56, 2144.23, 62, 2144.23, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002461-TA">
+		<line stroke="black" stroke-width="1" x1="2201.51" x2="2220.46" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2222.61" x2="2237.24" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2239.24" x2="2240.11" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2241.78" x2="2243.78" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2244.94" x2="2247" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002461-TA')" width="1.48999999999978" x="2200.02" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002461-TA')" width="2.15000000000009" x="2220.46" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002461-TA')" width="2" x="2237.24" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002461-TA')" width="1.67000000000007" x="2240.11" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002461-TA')" width="1.15999999999985" x="2243.78" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002461-TA')" width="2.57000000000016" x="2247" y="50" />
+		<rect fill="white" height="12" width="1.48999999999978" x="2200.02" y="50" />
+		<polygon fill="red" points="2200.02, 56, 2201.51, 62, 2201.51, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002462-TA">
+		<line stroke="black" stroke-width="1" x1="2264.44" x2="2271.86" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002462-TA')" width="5.75" x="2258.69" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002462-TA')" width="0.800000000000182" x="2271.86" y="50" />
+		<rect fill="white" height="12" width="5.75" x="2258.69" y="50" />
+		<polygon fill="red" points="2258.69, 56, 2264.44, 62, 2264.44, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002463-TA">
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002463-TA')" width="2" x="2299.72" y="50" />
+		<rect fill="white" height="12" width="2" x="2299.72" y="50" />
+		<polygon fill="red" points="2299.72, 56, 2301.72, 62, 2301.72, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002464-TA">
+		<line stroke="black" stroke-width="1" x1="2322.18" x2="2331.38" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2332.62" x2="2365.38" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2374.01" x2="2377.77" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002464-TA')" width="6.53999999999996" x="2315.64" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002464-TA')" width="1.24000000000024" x="2331.38" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002464-TA')" width="8.63000000000011" x="2365.38" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002464-TA')" width="2.38999999999987" x="2377.77" y="50" />
+		<rect fill="white" height="12" width="2.38999999999987" x="2377.77" y="50" />
+		<polygon fill="red" points="2377.77, 50, 2377.77, 62, 2380.16, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002465-TA">
+		<line stroke="black" stroke-width="1" x1="2414.83" x2="2416.73" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2417.96" x2="2429.09" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2430.29" x2="2437.31" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2438.26" x2="2444.45" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002465-TA')" width="5.48000000000002" x="2409.35" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002465-TA')" width="1.23000000000002" x="2416.73" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002465-TA')" width="1.20000000000027" x="2429.09" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002465-TA')" width="0.949999999999818" x="2437.31" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002465-TA')" width="1.71000000000004" x="2444.45" y="50" />
+		<rect fill="white" height="12" width="1.71000000000004" x="2444.45" y="50" />
+		<polygon fill="red" points="2444.45, 50, 2444.45, 62, 2446.16, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002466-TA">
+		<line stroke="black" stroke-width="1" x1="2452.37" x2="2479.05" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002466-TA')" width="1.76000000000022" x="2450.61" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002466-TA')" width="0.740000000000236" x="2479.05" y="50" />
+		<rect fill="white" height="12" width="1.76000000000022" x="2450.61" y="50" />
+		<polygon fill="red" points="2450.61, 56, 2452.37, 62, 2452.37, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002467-TA">
+		<line stroke="black" stroke-width="1" x1="2503.3" x2="2504.54" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2506.76" x2="2521.56" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2522.9" x2="2529.12" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2530.59" x2="2535.92" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2536.44" x2="2544.23" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2545.1" x2="2555.51" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2556.19" x2="2559.88" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2560.71" x2="2562.06" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2564.68" x2="2566.57" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2567.65" x2="2576.41" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2578.77" x2="2579.44" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2582.61" x2="2585" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2589.02" x2="2589.91" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2601.18" x2="2606.07" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2607.76" x2="2610.54" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="5.78999999999996" x="2497.51" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="2.2199999999998" x="2504.54" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="1.33999999999969" x="2521.56" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="1.4699999999998" x="2529.12" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="0.519999999999982" x="2535.92" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="0.870000000000346" x="2544.23" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="0.679999999999836" x="2555.51" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="0.829999999999927" x="2559.88" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="2.61999999999989" x="2562.06" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="1.07999999999993" x="2566.57" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="2.36000000000013" x="2576.41" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="3.17000000000007" x="2579.44" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="4.01999999999998" x="2585" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="11.27" x="2589.91" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="1.69000000000005" x="2606.07" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002467-TA')" width="2.23999999999978" x="2610.54" y="50" />
+		<rect fill="white" height="12" width="2.23999999999978" x="2610.54" y="50" />
+		<polygon fill="red" points="2610.54, 50, 2610.54, 62, 2612.78, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002468-TA">
+		<line stroke="black" stroke-width="1" x1="2626.89" x2="2631.01" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2632.39" x2="2636.97" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002468-TA')" width="0.610000000000127" x="2626.28" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002468-TA')" width="1.38000000000011" x="2631.01" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002468-TA')" width="2.38999999999987" x="2636.97" y="50" />
+		<rect fill="white" height="12" width="2.38999999999987" x="2636.97" y="50" />
+		<polygon fill="red" points="2636.97, 50, 2636.97, 62, 2639.36, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002469-TA">
+		<line stroke="black" stroke-width="1" x1="2704.83" x2="2710.01" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2711.82" x2="2713.14" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2715.23" x2="2720.5" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2728.83" x2="2732.24" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2734.07" x2="2748.43" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2749.96" x2="2757.61" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2760.44" x2="2767.12" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2768.25" x2="2791.6" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2792.74" x2="2819.66" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="0.850000000000364" x="2703.98" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="1.80999999999995" x="2710.01" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="2.08999999999969" x="2713.14" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="8.32999999999993" x="2720.5" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="1.82999999999993" x="2732.24" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="1.52999999999975" x="2748.43" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="2.82999999999993" x="2757.61" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="1.13000000000011" x="2767.12" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="1.13999999999987" x="2791.6" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002469-TA')" width="1.03999999999996" x="2819.66" y="50" />
+		<rect fill="white" height="12" width="1.03999999999996" x="2819.66" y="50" />
+		<polygon fill="red" points="2819.66, 50, 2819.66, 62, 2820.7, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002470-TA">
+		<line stroke="black" stroke-width="1" x1="2835.95" x2="2836.88" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2838.01" x2="2841.95" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2843.31" x2="2857.38" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2859.57" x2="2864.42" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002470-TA')" width="1.38999999999987" x="2834.56" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002470-TA')" width="1.13000000000011" x="2836.88" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002470-TA')" width="1.36000000000013" x="2841.95" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002470-TA')" width="2.19000000000005" x="2857.38" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002470-TA')" width="0.510000000000218" x="2864.42" y="50" />
+		<rect fill="white" height="12" width="1.38999999999987" x="2834.56" y="50" />
+		<polygon fill="red" points="2834.56, 56, 2835.95, 62, 2835.95, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002471-TA">
+		<line stroke="black" stroke-width="1" x1="2871.55" x2="2886.03" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2886.79" x2="2892.62" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2893.82" x2="2895.9" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="2898.01" x2="2914.59" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002471-TA')" width="0.599999999999909" x="2870.95" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002471-TA')" width="0.760000000000218" x="2886.03" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002471-TA')" width="1.19999999999982" x="2892.62" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002471-TA')" width="2.11000000000013" x="2895.9" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002471-TA')" width="57.9200000000001" x="2914.59" y="50" />
+		<rect fill="white" height="12" width="12" x="2960.51" y="50" />
+		<polygon fill="red" points="2960.51, 50, 2960.51, 62, 2972.51, 56" stroke="red" />
+	</g>
+	<g id="genscan: BMS002472-TA">
+		<line stroke="black" stroke-width="1" x1="3002.45" x2="3011.79" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3012.47" x2="3063.61" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002472-TA')" width="2.92999999999984" x="2999.52" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002472-TA')" width="0.679999999999836" x="3011.79" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002472-TA')" width="1.43000000000029" x="3063.61" y="50" />
+		<rect fill="white" height="12" width="2.92999999999984" x="2999.52" y="50" />
+		<polygon fill="red" points="2999.52, 56, 3002.45, 62, 3002.45, 50" stroke="red" />
+	</g>
+	<g id="genscan: BMS002473-TA">
+		<line stroke="black" stroke-width="1" x1="3081.35" x2="3179.93" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3180.93" x2="3202.4" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3203.64" x2="3212.61" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3213.74" x2="3223.77" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3224.69" x2="3240.93" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3241.91" x2="3246.52" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3250.58" x2="3255.34" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3257.52" x2="3261.94" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3263.21" x2="3267.64" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3268.92" x2="3275.4" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3276.85" x2="3296.96" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3298.18" x2="3304.19" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3306.69" x2="3310.33" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3311.73" x2="3312.36" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3313.43" x2="3315.84" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3317.18" x2="3319.01" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3322.32" x2="3324.65" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3325.81" x2="3326.52" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3327.7" x2="3335.11" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3338.56" x2="3341.63" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3342.73" x2="3349.6" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3351.96" x2="3355.66" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3357.39" x2="3357.45" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3359.3" x2="3368.07" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3369.04" x2="3369.76" y1="56" y2="56" />
+		<line stroke="black" stroke-width="1" x1="3371.87" x2="3377.66" y1="56" y2="56" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.91000000000031" x="3079.44" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1" x="3179.93" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.24000000000024" x="3202.4" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.13000000000011" x="3212.61" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="0.919999999999618" x="3223.77" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="0.980000000000018" x="3240.93" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="4.05999999999995" x="3246.52" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="2.18000000000029" x="3255.34" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.26999999999998" x="3261.94" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.27999999999975" x="3267.64" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.45000000000027" x="3275.4" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.22000000000025" x="3296.96" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="2.5" x="3304.19" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.40000000000009" x="3310.33" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.07000000000016" x="3312.36" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.34000000000015" x="3315.84" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="3.30999999999995" x="3319.01" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.16000000000031" x="3324.65" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.17999999999984" x="3326.52" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="3.45000000000027" x="3335.11" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.10000000000036" x="3341.63" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="2.35999999999967" x="3349.6" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.73000000000002" x="3355.66" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.84999999999991" x="3357.45" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="0.970000000000255" x="3368.07" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="2.11000000000013" x="3369.76" y="50" />
+		<rect fill="red" height="12" onclick="alert('genscan: BMS002473-TA')" width="1.90999999999985" x="3377.66" y="50" />
+		<rect fill="white" height="12" width="1.90999999999985" x="3377.66" y="50" />
+		<polygon fill="red" points="3377.66, 50, 3377.66, 62, 3379.57, 56" stroke="red" />
+	</g>
+	<text fill="#000000" font-family="ArialNarrow" font-size="18" x="30" xml:space="preserve" y="62.96">genscan
+	</text><!-- 
+	Generated using the Perl SVG Module V2.33
+	by Ronan Oger, modifyed by fanwei
+	Info: http://www.roasp.com/
+ -->
+</svg>
